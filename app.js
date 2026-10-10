@@ -52,7 +52,7 @@ const bonusPool = [
   'Mong bạn có thật nhiều khoảnh khắc nhỏ mà sau này nghĩ lại vẫn thấy: ừ, ngày ấy vui thật.',
   'Hãy để những ngày sắp tới có thêm một chút ngẫu hứng, một chút bất ngờ và thật nhiều tiếng cười.',
   'Mong bạn luôn biết rằng những niềm vui nhỏ cũng đáng được trân trọng.',
-  'Và cuối cùng, mong bạn có một 20/10 thật vui — theo đúng cách khiến bạn thấy vui nhất.'
+  'Và cuối cùng, mong bạn có một 20/10 thật hạnh phúc — theo đúng cách khiến bạn thấy thoải mái nhất.'
 ];
 function bonusFor(d){
   if(d.teacher) return 'Mong cô cũng có những khoảng thời gian thật nhẹ nhàng cho riêng mình, với nhiều niềm vui nhỏ sau những ngày bận rộn cùng lớp.';
@@ -73,7 +73,7 @@ function showReplyToast(text){
   later(()=>{t.classList.remove('show');later(()=>t.remove(),360)},1700);
 }
 function react(kind){
-  const msgs={sweet:'♡ Đã nhận một chút dễ thương.',received:'✦ Đã nhận rồi nhé.',thanks:'🌷 10B4 nhận được lời hồi đáp.'};
+  const msgs={sweet:'♡ Nhận một chút dễ thươnggggggg.',received:'✦ Đã nhận rồi nhé.',thanks:'🌷 10B4 nhận được lời hồi đáp-))).'};
   const colors={sweet:'♡',received:'✦',thanks:'🌷'};
   const layer=$('#touchTrail');
   if(layer && !reducedMotion){for(let i=0;i<6;i++){const h=document.createElement('span');h.className='trail-heart';h.textContent=colors[kind];h.style.setProperty('--x',(innerWidth-45)+'px');h.style.setProperty('--y',(innerHeight-58)+'px');h.style.setProperty('--dx',(Math.random()*60-30)+'px');h.style.setProperty('--dy',(-20-Math.random()*45)+'px');h.style.setProperty('--r',(Math.random()*30-15)+'deg');layer.appendChild(h);later(()=>h.remove(),800)}}
