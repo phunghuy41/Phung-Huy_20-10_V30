@@ -118,9 +118,9 @@ const girls = [
     "greeting": "Gửi Đào Phương Linh,",
     "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Phương Linh hôm nay nhận được đúng kiểu quan tâm ấm áp mà mình thích nha! Chúc cậu luôn được bao quanh bởi những điều ngọt ngào, ăn món mình thèm, nhận được những món quà bất ngờ và có một ngày tràn đầy năng lượng rực rỡ nhéee ♡"],
     "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
-  }
-];
-
+},
+  {
+    
   {
     "id": "student-16",
     "name": "Lê Hà Linh",
