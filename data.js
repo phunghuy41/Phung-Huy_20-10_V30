@@ -4,7 +4,7 @@ const girls = [
     "name": "Lê Phạm Khánh An",
     "subject": "",
     "greeting": "Gửi Lê Phạm Khánh An,",
-    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Khánh An hôm nay cười banh nóc luôn nha! Chúc cậu gặp đúng hội nói chuyện một câu là cười mười phút, ăn đúng món đang thèm, mở túi quà ra là “ê đúng gu mình rồi!” và chụp ảnh tấm nào cũng có người xin vía. Hôm nay cứ vô tư hết cỡ, vui là cười, thích là nhận, đói là ăn; đến lúc về nhà vẫn còn nguyên một chiếc mood siêu vui ♡"],
+    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Khánh An không chỉ hôm nay mà 365 ngày tới đều cười thật rực rỡ! Chúc cậu luôn gặp đúng những người thấu hiểu để sẻ chia, đạt được những mục tiêu mình ấp ủ, ăn món mình thèm, và nhận về những điều ngọt ngào xứng đáng với sự tử tế của cậu. Mong Khánh An luôn giữ được sự vô tư, kiên định và một năng lượng thật hạnh phúc từ sâu bên trong nhéee ♡"],
     "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
@@ -12,7 +12,7 @@ const girls = [
     "name": "Vũ Thùy An",
     "subject": "",
     "greeting": "Gửi Vũ Thùy An,",
-    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Thùy An có một ngày đúng kiểu càng trôi càng vui nha! Chúc lúc đang ngáp thì có chuyện làm tỉnh, lúc đang đói thì đồ ăn xuất hiện, lúc đang ngồi yên cũng có người kéo đi tám chuyện. Quà nhận được nhớ mở thật chậm để tận hưởng cảm giác bất ngờ nhé; rồi cười thật đã, kể thật nhiều chuyện vui và cho phép bản thân hôm nay lười một chút cũng được ♡"],
+    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "Happy 20/10 Thùy An! Mong rằng ngày hôm nay vũ trụ sẽ gửi đến cậu toàn những điều may mắn và ngập tràn niềm vui. Chúc cậu luôn giữ được sự rạng rỡ, tự tin, đón nhận những món quà bất ngờ hợp gu nhất và thu hút về mình những trải nghiệm tuyệt vời trong chặng đường phía trước nha ♡"],
     "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
@@ -20,7 +20,7 @@ const girls = [
     "name": "Phạm Phương Anh",
     "subject": "",
     "greeting": "Gửi Phạm Phương Anh,",
-    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Phương Anh gặp được những người hợp cạ tới mức đang định nói “thôi về” mà cuối cùng ngồi thêm hai tiếng nha! Chúc câu nào buột miệng nói ra cũng thành chuyện hài, đi đâu cũng có người bắt đúng tần số, món ăn gọi ra không có món nào thất vọng. Hôm nay cứ vui theo kiểu của cậu: hơi ồn một chút, hơi vô tri một chút, nhưng vui thật nhiều ♡"],
+    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "Chúc cậu có một ngày 20/10 ngập tràn những bất ngờ ngọt ngào. Mong rằng mỗi nơi cậu bước đến hôm nay đều có thời tiết chiều lòng người, mỗi người cậu gặp đều mang lại năng lượng tích cực, và mọi món quà nhận được đều trúng phóc sở thích. Hãy cứ tự do bộc lộ cá tính, tỏa sáng theo cách rực rỡ nhất và tận hưởng một ngày thuộc về riêng cậu nhé ♡"],
     "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
@@ -28,7 +28,7 @@ const girls = [
     "name": "Nguyễn Ngọc Anh",
     "subject": "",
     "greeting": "Gửi Nguyễn Ngọc Anh,",
-    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Ngọc Anh có một ngày mà tiếng cười xuất hiện còn nhiều hơn thông báo điện thoại nha! Chúc cậu nhận quà đúng gu, bắt được góc ảnh xịn, nghe một câu khen làm vui cả buổi và gặp một chuyện ngớ ngẩn đủ để kể lại mấy lần vẫn buồn cười. Hôm nay chẳng cần giữ hình tượng đâu, cứ thoải mái, cứ cười thật tự nhiên và tận hưởng chiếc 20/10 của mình ♡"],
+    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Ngọc Anh có một ngày mà tiếng cười xuất hiện còn nhiều hơn thông báo điện thoại nha! Chúc cậu nhận quà đúng gu, bắt được góc ảnh xịn, nghe một câu khen làm vui cả buổi và gặp thật nhiều khoảnh khắc đáng yêu làm cậu bật cười thích thú. Hôm nay cứ vô tư hết cỡ, cười thật tự nhiên và tận hưởng chiếc 20/10 tuyệt vời của mình nhé ♡"],
     "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
@@ -36,7 +36,7 @@ const girls = [
     "name": "Đinh Thùy Chi",
     "subject": "",
     "greeting": "Gửi Đinh Thùy Chi,",
-    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Thùy Chi hôm nay “hên dữ vậy trời” từ đầu đến cuối nha! Chúc đi đâu cũng gặp chuyện thuận lợi, chọn món nào trúng món ngon, bóc quà phát là trúng đúng thứ mình thích, chụp camera thường vẫn xinh và đang định than mệt thì có chuyện vui kéo mood lên liền. Cứ để hôm nay chiều cậu một chút: thích gì vui nấy, cười thật to và không cần nghiêm túc quá đâu ♡"],
+    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Thùy Chi hôm nay “hên dữ vậy trời” từ đầu đến cuối nha! Chúc đi đâu cũng gặp chuyện thuận lợi, chọn món nào trúng món ngon, bóc quà phát là trúng đúng thứ mình thích, chụp góc nào cũng rạng rỡ bắt cam và nếu có lỡ mệt một chút thì có chuyện vui kéo mood lên liền. Cứ để hôm nay chiều cậu một chút: thích gì vui nấy, cười thật to và tận hưởng ngày hôm nay thật trọn vẹn nha ♡"],
     "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
@@ -44,7 +44,7 @@ const girls = [
     "name": "Nguyễn Khánh Chi",
     "subject": "",
     "greeting": "Gửi Nguyễn Khánh Chi,",
-    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Khánh Chi có một ngày nhẹ tênh nhưng niềm vui thì đầy pin nha! Chúc cậu vừa đặt điện thoại xuống là có người rủ tám, vừa nghĩ tới đồ ăn là gặp món ngon, vừa chụp đại một tấm đã có ngay ảnh xài được. Hôm nay cứ chill theo đúng nghĩa: nghe nhạc mình thích, ăn món mình thèm, nói chuyện với người mình quý và cười tới mức quên xem giờ luôn ♡"],
+    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Khánh Chi có một ngày nhẹ tênh nhưng niềm vui thì luôn đầy pin nha! Chúc cậu vừa đặt điện thoại xuống là có người rủ buôn chuyện, vừa nghĩ tới đồ ăn là gặp món ngon hợp vị, và đứng vào góc nào lên ảnh cũng xinh lung linh. Hôm nay cứ chill theo đúng nghĩa: nghe nhạc mình thích, ăn món mình thèm, và cười tới mức quên xem giờ luôn ♡"],
     "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
@@ -52,7 +52,7 @@ const girls = [
     "name": "Hoàng Lê Ngọc Diệp",
     "subject": "",
     "greeting": "Gửi Hoàng Lê Ngọc Diệp,",
-    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Ngọc Diệp hôm nay gặp toàn những pha “ủa vui vậy!” nha! Chúc giờ ra chơi nào cũng có chuyện để cười, bài kiểm tra nào cũng gặp phần quen, đồ ăn nào cũng đúng vị và quà nào mở ra cũng thấy hợp gu. Cậu cứ giữ nguyên cái năng lượng khiến người khác cũng phải bật cười theo; hôm nay vui thật tự nhiên, chẳng cần lý do luôn ♡"],
+    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Ngọc Diệp hôm nay gặp toàn những pha “ủa vui vậy!” nha! Chúc giờ ra chơi nào cũng ngập tiếng cười, đi đến đâu cũng bắt gặp những điều dễ thương, đồ ăn chuẩn vị và quà nào mở ra cũng thấy ưng ý. Cậu cứ giữ nguyên cái năng lượng tích cực khiến người khác cũng phải vui lây này nhé; hôm nay cứ cười thật thoải mái thôi ♡"],
     "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
@@ -60,7 +60,7 @@ const girls = [
     "name": "Vũ Ngọc Diệp",
     "subject": "",
     "greeting": "Gửi Vũ Ngọc Diệp,",
-    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Ngọc Diệp có một ngày đẹp từ mood tới ảnh nha! Chúc cậu mặc gì cũng thấy hợp, chụp góc nào cũng ưng, nói chuyện với ai cũng có chuyện để kể và nhận được một món quà làm mắt sáng lên một chút. Hôm nay cứ để mình được nuông chiều bởi những điều nhỏ xíu: món ngon, lời chúc dễ thương, vài phút cười vô tri và một buổi tối thật vui ♡"],
+    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Ngọc Diệp có một ngày đẹp từ mood tới ảnh nha! Chúc cậu mặc gì cũng thấy hợp, chụp góc nào cũng ưng, nói chuyện với ai cũng có chuyện vui để kể và nhận được một món quà khiến cậu thích mê. Hôm nay cứ để mình được nuông chiều bởi những điều nhỏ xíu: món ngon, lời chúc dễ thương, và một buổi tối thật trọn vẹn nhé ♡"],
     "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
@@ -68,7 +68,7 @@ const girls = [
     "name": "Lê Hạnh Dung",
     "subject": "",
     "greeting": "Gửi Lê Hạnh Dung,",
-    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Hạnh Dung hôm nay cười thật thoải mái nha! Chúc cậu gặp được đúng kiểu người nói chuyện một lúc là quên mất mình đang mệt, được ăn món mình thích mà chẳng cần cân nhắc, rồi vô tình có một khoảnh khắc buồn cười tới mức nhớ lại vẫn thấy vui. Cứ tận hưởng ngày này thật nhẹ nhàng, thích nói thì nói, muốn cười thì cười và để mọi thứ diễn ra tự nhiên ♡"],
+    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Hạnh Dung hôm nay cười thật thoải mái nha! Chúc cậu gặp được đúng hội bạn nói chuyện một lúc là quên hết mệt mỏi, được nuông chiều bản thân bằng những món ăn yêu thích, và tận hưởng một ngày trôi qua thật êm ả. Thích nói thì nói, muốn cười thì cười, hãy để ngày hôm nay chiều chuộng cậu hết mức nha ♡"],
     "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
@@ -76,7 +76,7 @@ const girls = [
     "name": "Đỗ Nhật Hà",
     "subject": "",
     "greeting": "Gửi Đỗ Nhật Hà,",
-    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Nhật Hà hôm nay vừa xinh vừa vui theo kiểu nhìn là biết đang có chuyện hay ho nha! Chúc outfit đúng ý, tóc đúng nếp, camera bắt đúng góc, món ăn gọi ra ngon và quà mở ra không phải kiểu “ừ cũng được” mà là “trời ơi thích!”. Hôm nay cứ như có một ngày nghỉ mini: vui hết mức, chụp vài tấm thật ưng và cười thật đã ♡"],
+    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Nhật Hà hôm nay vừa xinh vừa vui theo kiểu nhìn là biết đang có chuyện hạnh phúc nha! Chúc outfit đúng ý, tóc vào nếp mượt mà, camera bắt trọn góc đẹp và những món quà mở ra đều khiến cậu phải thốt lên vì thích thú. Hôm nay cứ như có một ngày nghỉ mini: vui hết mức và cười thật đã nha ♡"],
     "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
@@ -84,7 +84,7 @@ const girls = [
     "name": "Lê Ngọc Hà",
     "subject": "",
     "greeting": "Gửi Lê Ngọc Hà,",
-    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Ngọc Hà có một ngày thật dịu, thật vui và gặp những điều khiến lòng mình dễ chịu nha! Chúc cậu nghe được một lời khen rất thật, nhận một món quà vừa vặn với sở thích và có một cuộc trò chuyện mà không cần nghĩ xem phải nói gì tiếp theo. Hôm nay cứ thong thả, ăn món mình thích, ngồi cạnh người khiến mình vui và tận hưởng cảm giác được quan tâm ♡"],
+    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Ngọc Hà có một ngày thật dịu, thật vui và gặp những điều khiến lòng mình dễ chịu nha! Chúc cậu nghe được một lời khen chân thành, nhận một món quà vừa vặn với sở thích và có một cuộc trò chuyện ấm áp mà không cần lo nghĩ. Hôm nay cứ thong thả ăn món mình thích, ngồi cạnh người khiến mình vui và tận hưởng cảm giác được yêu thương ♡"],
     "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
@@ -92,7 +92,7 @@ const girls = [
     "name": "Nguyễn Thị Thanh Hải",
     "subject": "",
     "greeting": "Gửi Nguyễn Thị Thanh Hải,",
-    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Thanh Hải có một ngày mềm mại như một buổi chiều không phải vội nha! Chúc cậu có thời gian cho một ly nước ngon, một bài nhạc hợp mood, một cuộc trò chuyện thật dễ chịu và một món quà nho nhỏ nhưng mở ra là thấy ấm lòng. Hôm nay cứ nhận lấy những lời chúc thật vui, cười thật nhẹ và để mọi thứ đáng yêu đến bên cậu thật tự nhiên ♡"],
+    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Thanh Hải có một ngày mềm mại như một buổi chiều thảnh thơi không chút vội vã nha! Chúc cậu có thời gian cho một ly nước vị mình mê, một bài nhạc đúng gu, một cuộc trò chuyện thật dễ chịu và một món quà làm ấm lòng. Hôm nay hãy cứ nhận lấy những điều đáng yêu đến bên cậu một cách tự nhiên nhất nhé ♡"],
     "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
@@ -100,7 +100,7 @@ const girls = [
     "name": "Đặng Khánh Huyền",
     "subject": "",
     "greeting": "Gửi Đặng Khánh Huyền,",
-    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Khánh Huyền hôm nay được yêu chiều vừa đủ để thấy mình thật đặc biệt nha! Chúc cậu nhận được những lời nói làm mình vui thật lòng, gặp những người tinh tế, ăn một bữa thật ngon và có một khoảng thời gian yên yên đúng sở thích. Không cần gì lớn lao đâu, chỉ cần hôm nay có vài khoảnh khắc khiến cậu mỉm cười một mình là chiếc 20/10 này đã xinh rồi ♡"],
+    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Khánh Huyền hôm nay được yêu chiều vừa đủ để thấy mình thật đặc biệt nha! Chúc cậu nhận được những lời nói làm mình vui thật lòng, gặp những người bạn tinh tế, ăn một bữa thật ngon và có một khoảng không gian yên bình đúng sở thích. Chỉ cần hôm nay có vài khoảnh khắc khiến cậu mỉm cười là ngày 20/10 này đã quá trọn vẹn rồi ♡"],
     "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
@@ -108,17 +108,19 @@ const girls = [
     "name": "Nguyễn Diệp Khanh",
     "subject": "",
     "greeting": "Gửi Nguyễn Diệp Khanh,",
-    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Diệp Khanh có một ngày đầy những niềm vui bé xíu nhưng cộng lại thành rất nhiều nha! Chúc một câu nói dễ thương làm cậu vui, một món quà nhỏ làm cậu bất ngờ, một cuộc nói chuyện kéo dài hơn dự tính và một bữa ăn ngon đúng lúc. Hôm nay cứ nhẹ nhàng thôi, cười khi vui, ngồi lâu thêm chút khi nói chuyện hợp và tận hưởng thật trọn vẹn ♡"],
+    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Diệp Khanh có một ngày đầy những niềm vui bé xíu nhưng cộng lại thành hạnh phúc to đùng nha! Chúc một câu nói dễ thương làm cậu vui cả buổi, một món quà nhỏ làm cậu bất ngờ và một bữa ăn ngon đúng điệu. Hôm nay cứ nhẹ nhàng thôi, cười thật tươi khi vui và tận hưởng một ngày trọn vẹn của riêng mình ♡"],
     "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
-  {
+    {
     "id": "student-15",
     "name": "Đào Phương Linh",
     "subject": "",
     "greeting": "Gửi Đào Phương Linh,",
-    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Phương Linh hôm nay nhận được đúng kiểu quan tâm mà mình thích nha! Chúc có người nhớ món cậu thích, nhớ điều cậu từng nói, rồi mang tới một niềm vui nho nhỏ đúng lúc. Chúc cả ngày có thật nhiều khoảng dễ chịu: ăn ngon, nói chuyện vui, nghe nhạc hay và được ngồi yên khi muốn. Hôm nay cứ để bản thân được vui thật lòng, chẳng cần phải làm gì đặc biệt ♡"],
+    "paragraphs": ["Cảm ơn bạn đã đọc thư nhaaa ♡", "20/10 chúc Phương Linh hôm nay nhận được đúng kiểu quan tâm ấm áp mà mình thích nha! Chúc cậu luôn được bao quanh bởi những điều ngọt ngào, ăn món mình thèm, nhận được những món quà bất ngờ và có một ngày tràn đầy năng lượng rực rỡ nhéee ♡"],
     "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
-  },
+  }
+];
+
   {
     "id": "student-16",
     "name": "Lê Hà Linh",
